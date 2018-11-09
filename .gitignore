@@ -1,0 +1,6 @@
+.serverless
+.cache
+node_modules
+**/*.map
+Browser/**/*
+Browser
